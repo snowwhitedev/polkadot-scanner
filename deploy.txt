@@ -1,1 +1,1 @@
-https://polkadot-scanner.web.app/
+Front end react app is deployed at https://polkadot-scanner.web.app/
